@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Desafio Tabuada",
+    "slug": "tabuada-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icone.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#03989e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.joaovictor.tabuada",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.joaovictor.tabuada",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
